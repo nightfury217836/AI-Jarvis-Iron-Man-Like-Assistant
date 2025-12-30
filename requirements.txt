@@ -1,0 +1,6 @@
+pyttsx3
+SpeechRecognition
+numpy
+pickle-mixin
+psutil
+pyautogui
