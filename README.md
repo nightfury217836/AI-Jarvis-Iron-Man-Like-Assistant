@@ -6,7 +6,7 @@
 💡 Ever wondered if you could build your own JARVIS — an AI assistant that listens, talks, understands, and reacts just like a human?
 In this video, I’ll show you how I built a Real-Life AI Voice Assistant using Python, Machine Learning, and NLP, capable of understanding speech, predicting user intent, and performing real computer tasks. 🤖🔥
 
-📂 Project Folder + Code Included : 
+YouTube Link:   https://youtu.be/FrrxSg5ajgg?si=FPidjjO7dEyAnmcc
 
 We’ll go step by step:
 ✅ Creating a custom intents.json for natural conversation
